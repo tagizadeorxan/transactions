@@ -1,0 +1,33 @@
+{
+  "card": {
+      "cardAccount":"Card Account",
+      "maskedCardNumber":"Masked Card Number",
+      "expireDate":"Expire Date",
+      "currency":"Currency",
+      "balance":"Balance"
+  },
+  "currency":{
+      "azn":"AZN",
+      "eur":"EUR",
+      "usd":"USD"
+  },
+  "other":{
+      "status":"Status",
+      "active":"active",
+      "blocked":"blocked",
+      "submit":"Submit"
+  },
+  "transaction":{
+      "forWhat":"For what",
+      "amount":"Amount",
+      "card":"Card",
+      "pay":"Pay"
+  },
+  "pages":{
+      "home":"Home",
+      "createCard":"Create Card",
+      "allCards":"All Cards",
+      "makeTransaction":"Make Transaction",
+      "allTransactions":"All Transactions"
+  }
+}
